@@ -1,0 +1,8 @@
+/usr/local/include/terra/lua.h
+/usr/local/include/terra/lualib.h
+/usr/local/include/terra/lauxlib.h
+/usr/local/include/terra/luaconf.h
+/usr/local/lib/terra.a
+/usr/local/lib/terra.so
+/usr/local/bin/terra
+/usr/local/include/terra/terra.h
